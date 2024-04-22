@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FireTweet</string>
+    <string name="title_home">Home</string>
+    <string name="title_trending">Trending</string>
+    <string name="title_profile">Profile</string>
+    <string name="default_web_client_id" translatable="false">webClientId.apps.googleusercontent.com</string>
+
+</resources>
